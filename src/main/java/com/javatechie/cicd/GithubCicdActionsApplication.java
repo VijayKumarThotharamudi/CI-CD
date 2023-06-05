@@ -11,7 +11,7 @@ public class GithubCicdActionsApplication {
 
 	@GetMapping("/welcome")
 	public String welcome(){
-		return "Hello Avuku Nagendra, MY SELF VIJAY, A WARM WELCOME TO QUALITY AUTOMATION GROUP WE ARE VERY PROUD TO SAY THAT WE ACHIEVED 15 M$ REVENUE. I am on the way  !";
+		return "Hello Avuku Nagendra, MY SELF VIJAY, A WARM WELCOME TO QUALITY AUTOMATION GROUP WE ARE VERY PROUD TO SAY THAT WE ACHIEVED 15 M$ REVENUE. I am on my way to achieve my goal towards AG   !";
 	}
 
 //	echo "# github-actions-example" >> README.md
